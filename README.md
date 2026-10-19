@@ -1,10 +1,11 @@
-# tício
+# Tício
+caso do Tício
 ## Problema
 Trabalhador que exercia atividades sem registro.
 ## Como navegar
-entrada/ preserva o relato; apoio/ contØm fontes permitidas;
+entrada/ preserva o relato; apoio/ contém fontes permitidas;
 docs/ define regras e prompts; evidencias/ registra o fluxo.
-## Repositrio
-[Adicionar a URL aps o push para o GitHub.]
+## Repositório
+https://github.com/LeandroCORREALC/t--cio
 ## Como executar
-Ler docs/prompts/consulta_rag.md e usar somente apoio/.
+Ler docs/promps/consulta_rag.md e usar somente apoio/.
